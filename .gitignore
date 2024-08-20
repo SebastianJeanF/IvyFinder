@@ -32,3 +32,11 @@ npm-debug.log*
 
 .vercel
 .env
+
+# Ignore specific local files
+INSTALL.md
+/android
+/ios
+/.gradle
+/.browserslistrc
+
